@@ -3,4 +3,4 @@ Disallow: /about/CV-of-Liu-Yingkai.pdf
 Disallow: /secret/
 Disallow: /secret
 
-SITEMAP: https://yk-liu.github.io/sitemap.xml
+SITEMAP: https://wesley273.github.io/sitemap.xml
