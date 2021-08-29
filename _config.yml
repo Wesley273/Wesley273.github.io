@@ -1,6 +1,6 @@
 # Site settings
-title: Website Title
-description: Website short description
+title: Welcome
+description: This is Wesley's blog
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://wesley273.github.io"  
